@@ -1,0 +1,15 @@
+E:\Codeing\MyGame V2\MyGame V2\obj\Debug\MyGame_V2.Form1.resources
+E:\Codeing\MyGame V2\MyGame V2\obj\Debug\MyGame_V2.Resources.resources
+E:\Codeing\MyGame V2\MyGame V2\obj\Debug\MyGame V2.vbproj.GenerateResource.cache
+E:\Codeing\MyGame V2\MyGame V2\bin\Debug\MyGame V2.exe.config
+E:\Codeing\MyGame V2\MyGame V2\bin\Debug\MyGame V2.exe
+E:\Codeing\MyGame V2\MyGame V2\bin\Debug\MyGame V2.pdb
+E:\Codeing\MyGame V2\MyGame V2\bin\Debug\MyGame V2.xml
+E:\Codeing\MyGame V2\MyGame V2\obj\Debug\MyGame V2.exe
+E:\Codeing\MyGame V2\MyGame V2\obj\Debug\MyGame V2.xml
+E:\Codeing\MyGame V2\MyGame V2\obj\Debug\MyGame V2.pdb
+E:\Codeing\MyGame V2\MyGame V2\obj\Debug\MyGame_V2.GameOver.resources
+E:\Codeing\MyGame V2\MyGame V2\obj\Debug\MyGame_V2.Win.resources
+E:\Codeing\MyGame V2\MyGame V2\obj\Debug\MyGame_V2.SplashScreen1.resources
+E:\Codeing\MyGame V2\MyGame V2\obj\Debug\MyGame_V2.SplashScreen2.resources
+E:\Codeing\MyGame V2\MyGame V2\obj\Debug\MyGame V2.vbprojAssemblyReference.cache
